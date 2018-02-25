@@ -10,3 +10,4 @@ A collection of cool ideas that we could use for the Magic Mirror.
 - [ ] PIR detector to switch from a collection of photos to the magic mirror.
 - [ ] Able to show webpage on your phone on the MagicMirror
 - [ ] [HueLights](https://github.com/MitchSS/MMM-Hue) to control see the hue lights.
+- [ ] [Sonos](https://github.com/CFenner/MMM-Sonos) see what song is playing!
