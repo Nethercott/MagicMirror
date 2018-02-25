@@ -9,3 +9,4 @@ A collection of cool ideas that we could use for the Magic Mirror.
 - [ ] [NetworkScanner](https://github.com/ianperrin/MMM-NetworkScanner) to see when people are home based on MAC addresses.
 - [ ] PIR detector to switch from a collection of photos to the magic mirror.
 - [ ] Able to show webpage on your phone on the MagicMirror
+- [ ] [HueLights](https://github.com/MitchSS/MMM-Hue) to control see the hue lights.
